@@ -4,6 +4,8 @@ A browser-based ecological simulation game featuring **stochastic modeling**, **
 
 **Built with Python/Flask backend, pure JavaScript/Canvas frontend, and advanced Monte Carlo simulation techniques.**
 
+## 🔗 Deployed Link:
+https://ele906.github.io/cf_ai_goosegame/
 ---
 
 ## 🌟 Key Features
